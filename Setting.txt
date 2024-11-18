@@ -1,0 +1,4 @@
+Request URL: https://www.youtube.com/youtubei/v1/att/get?key=11111111111111111111111118&prettyPrint=false
+Тип запроса: GET
+Передаваемые параметры: 
+nikewalce@11111111111.iam.gserviceaccount.com
